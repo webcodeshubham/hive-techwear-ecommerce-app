@@ -4,6 +4,11 @@
 Hive-Techwear Project, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
+## ScreenShot
+
+![image](https://user-images.githubusercontent.com/115470266/229265902-ef280430-3e4e-4c8a-a44e-e6fd4ce55eca.png)
+
+
 ## Live Demo
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
