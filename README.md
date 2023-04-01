@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://hive-techware-backend.sajid-techis.repl.co/) h
 1. Git Clone
 
 ```
-git clone https://github.com/Tech-i-s/techis-wd-Hive-Techwear.git
+git clone https://github.com/webcodeshubham/hive-techwear-ecommerce-app
 ```
 
 2. Backend setting
